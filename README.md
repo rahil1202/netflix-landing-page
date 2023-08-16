@@ -2,7 +2,7 @@
 
 ## Overview 🎬
 
-Welcome to the "Netflix Landing Page" project! This is a responsive web page that emulates the landing page of Netflix. It is built using HTML, CSS, and JavaScript to showcase your web development skills and creativity.
+Welcome to the "Netflix Landing Page" project! This is a responsive web page that emulates the landing page of Netflix. It is built using HTML, CSS, and JavaScript to showcase web development skills and creativity.
 
 The landing page features a modern design similar to the official Netflix website, complete with movie thumbnails, a responsive navigation bar, and interactive components.
 
